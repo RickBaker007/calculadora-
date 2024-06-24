@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+.fundo {
+    background-image:linar-gradient(45deg grey,black);
+    height:100vh;
+    color:black
+    font-family:"times neur-roman,
+    times,serif"
+    text-align:center 
+
+}
