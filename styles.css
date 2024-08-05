@@ -11,7 +11,7 @@ fundo{
     
 }
 .Calculadora{ 
-    position: absolute;
+position: absolute;
 background-color: rgba(222, 219, 219, 0.7);
 top: 50%;
 left: 50%;
@@ -44,8 +44,9 @@ color: black;
 #resultado{
     background-color: white;
     width: 207px;
-    height: 207px;
-    margin: 5px;color: black;
+    height: 30px;
+    margin: 5px;
+    color: black;
     text-align: right;
     padding: 5px;
 }
